@@ -1,4 +1,5 @@
 # Searchable-countries-menu-PHP-jQuery-
-This code example shows you how to make a Searchable countries menu with PHP and jQuery, for more than 200 countries aroound the world.
+
+An simple Countries Searchable Menu created using PHP and jQuery. This Menu supports more than 200 countries around the world.
 
 Watch  the full Youtube video of this tutorial: 
